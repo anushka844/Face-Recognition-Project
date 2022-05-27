@@ -1,15 +1,16 @@
 # Face-Recognition-Project
 
-Recognize the faces and takes automatic Attendance.
-We seek to provide a valuable attendance service for both teachers and students. 
-Reduce manual process errors by provide automated and a reliable attendance system uses face recognition technology.
+* Recognize the faces and takes automatic Attendance.
+* We seek to provide a valuable attendance service for both teachers and students. 
+* Reduce manual process errors by provide automated and a reliable attendance system uses face recognition technology.
 
 # Features 
-Check Camera
-Capture Faces
-Train Faces
-Recognize Faces & Attendance
-Quit
+
+1. Check Camera
+2. Capture Faces
+3. Train Faces
+4. Recognize Faces & Attendance
+5. Quit
 
 # Tech Used 
 
@@ -34,4 +35,5 @@ LBPH (Local Binary Pattern Histogram)
 Software Used -
 Pycharm 2019.2
 VS CODE
-Git/ Github
+Git
+Github
