@@ -1,6 +1,6 @@
 # Face-Recognition-Project
 
-Recognize The faces And Take Automatic Attandance.
+Recognize the faces and takes automatic Attendance.
 We seek to provide a valuable attendance service for both teachers and students. 
 Reduce manual process errors by provide automated and a reliable attendance system uses face recognition technology.
 
